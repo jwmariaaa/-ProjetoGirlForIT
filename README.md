@@ -30,7 +30,7 @@ O nome **IGRA** vem da palavra russa *“игра”*, que significa **jogo**, r
 
 ---
 
-## 📌 O que foi feito
+## 📌 O que foi feito?
 
 - Criação de algoritmos básicos utilizando blocos no Scratch  
 - Estruturação de páginas web com HTML  
