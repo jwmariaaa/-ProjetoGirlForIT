@@ -8,7 +8,7 @@ Projeto desenvolvido durante o programa **Girl For IT (Junior Achievement MG)**,
 ## 💡 Sobre o projeto
 
 A ideia inicial do projeto era criar um site que reunisse conteúdos sobre o **Scratch**, como tutoriais,
-explicações de blocos e jogos desenvolvidos pelas próprias alunas, servindo como apoio para quem está começando.
+explicações de blocos e jogos desenvolvidos por mim e minha dupla, servindo como apoio para quem está começando e até mesmo as outras participantes.
 
 Durante o desenvolvimento, o foco principal acabou sendo o estudo da **estrutura de um site**, organização
 do conteúdo e aplicação prática dos primeiros conceitos de desenvolvimento web.
