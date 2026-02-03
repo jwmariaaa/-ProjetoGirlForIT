@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iGra - OGM Extension</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <header>
+        <div class="logo">
+            <h1>iGra - OGM Extension</h1>
+        </div>
+        <div class="profile" onclick="toggleSidebar()">
+            <img src="https://via.placeholder.com/50" alt="Perfil" class="profile-pic" id="profilePic">
+            <span id="profileName">Usuário</span>
+        </div>
+    </header>
+
+    <div class="sidebar" id="sidebar">
+        <button class="close-btn" onclick="toggleSidebar()">×</button>
+        <h2>Perfil</h2>
+        <div class="sidebar-content">
+            <div class="profile-pic-container">
+                <input type="file" id="photo" accept="image/*" style="display: none;">
+                <img src="https://via.placeholder.com/100" alt="Perfil" id="sidebarProfilePic" class="profile-pic">
+            </div>
+            <label for="name">Nome:</label>
+            <input type="text" id="name" placeholder="Digite Seu nome">
+            <button onclick="login()">Salvar</button>
+            <button onclick="logout()">Logout</button>
+        </div>
+    </div>
+
+    <section class="hero">
+        <img src="https://4kwallpapers.com/images/walls/thumbs_3t/18369.jpg" alt="Background" class="background-image">
+        <div class="overlay">
+            <img src="https://via.placeholder.com/150" alt="Logo" class="hero-logo">
+            <h2>Descubra os Jogos Famosos do Friv</h2>
+        </div>
+    </section>
+
+    <nav class="navigation">
+        <ul>
+            <li><a href="#fireboy">Fireboy and Watergirl</a></li>
+            <li><a href="#papa">Papa's Pizzeria</a></li>
+            <li><a href="#moto">Moto X3M</a></li>
+            <li><a href="#bombit">Bomb It</a></li>
+            <li><a href="#bubbles">Super Bubbles</a></li>
+        </ul>
+    </nav>
+
+    <section class="games">
+        <div class="game" id="fireboy">
+            <img src="https://i.pinimg.com/564x/d2/31/06/d2310637fcfce67055ec31daeb583957.jpg" alt="Fireboy and Watergirl">
+            <div class="game-info">
+                <h3>Fireboy and Watergirl</h3>
+                <p>Ajude Fireboy e Watergirl a resolverem os enigmas em templos cheios de armadilhas e desafios. É um jogo de lógica e cooperação entre dois personagens.</p>
+                <a href="https://www.friv.com/fireboywatergirl" target="_blank">Jogar no Friv</a>
+            </div>
+        </div>
+
+        <div class="game" id="papa">
+            <img src="https://i.pinimg.com/564x/8c/bd/4b/8cbd4b277ef3144dc34e1aaa105559c9.jpg" alt="Papa's Pizzeria">
+            <div class="game-info">
+                <h3>Papa's Pizzeria</h3>
+                <p>Trabalhe em uma pizzaria movimentada, prepare e sirva pizzas enquanto mantém os clientes felizes. Teste suas habilidades de gerenciamento de tempo!</p>
+                <a href="https://www.friv.com/papaspizzeria" target="_blank">Jogar no Friv</a>
+            </div>
+        </div>
+
+        <div class="game" id="moto">
+            <img src="https://i.pinimg.com/564x/7e/f8/bf/7ef8bfe58b0f36543a9f0af1b1d79327.jpg" alt="Moto X3M">
+            <div class="game-info">
+                <h3>Moto X3M</h3>
+                <p>Moto X3M é um jogo de corrida em que você enfrenta pistas radicais com obstáculos. Controle sua moto e chegue ao final da pista o mais rápido possível.</p>
+                <a href="https://www.friv.com/motox3m" target="_blank">Jogar no Friv</a>
+            </div>
+        </div>
+
+        <div class="game" id="bombit">
+            <img src="https://i.pinimg.com/564x/c8/20/60/c8206020bf6bfc524ae5feea6c08b249.jpg" alt="Bomb It">
+            <div class="game-info">
+                <h3>Bomb It</h3>
+                <p>Bomb It é uma versão moderna do clássico Bomberman, onde você precisa plantar bombas para destruir inimigos e blocos no caminho para a vitória.</p>
+                <a href="https://www.friv.com/bombit" target="_blank">Jogar no Friv</a>
+            </div>
+        </div>
+
+        <div class="game" id="bubbles">
+            <img src="https://i.pinimg.com/564x/36/3a/2a/363a2a1bd14ed6fad7cd2044ea0ca9bf.jpg" alt="Super Bubbles">
+            <div class="game-info">
+                <h3>Super Bubbles</h3>
+                <p>Super Bubbles é um jogo clássico de atirar bolas coloridas para combinar e explodir. Teste suas habilidades e alcance a pontuação máxima.</p>
+                <a href="https://www.friv.com/superbubbles" target="_blank">Jogar no Friv</a>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
