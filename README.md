@@ -3,7 +3,7 @@
 Projeto desenvolvido durante o programa **Girl For IT (Junior Achievement MG)**, com foco no aprendizado de
 **lógica de programação, estrutura de sites e pensamento computacional**, utilizando **Scratch, HTML e CSS**.
 
-## 📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 A proposta inicial do projeto foi criar um site voltado para jovens estudantes, reunindo conteúdos relacionados
 ao uso do **Scratch**, como tutoriais, exemplos de blocos e jogos desenvolvidos pelas próprias alunas.
