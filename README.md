@@ -54,8 +54,8 @@ O nome **IGRA** vem da palavra russa *“игра”*, que significa **jogo**, r
 Mesmo não avançando para a próxima etapa da competição, o projeto foi uma experiência muito importante para mim.
 Recebemos feedback positivo dos professores, que destacaram o esforço, dedicação e organização do trabalho e apresentação.
 
-Esse projeto ajudou a entender melhor a importância do planejamento de ideias e serviu como base
-para continuar os estudos em programação e trabalho em equipe.
+Esse projeto ajudou a entender melhor a importância do planejamento de ideias e trabalho em equipe, e também serviu como base
+para continuar os estudos em programação.
 
 ---
 
