@@ -59,7 +59,7 @@ para continuar os estudos em programação.
 
 ---
 
-## 🚀 Próximos passos
+## 🚀 Próximos passos para aprimorar o projeto
 
 - Melhorar o visual do site  
 - Aprender e aplicar JavaScript  
