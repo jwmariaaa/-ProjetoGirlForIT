@@ -1,4 +1,4 @@
-# 🎮 IGRA – Plataforma de Jogos Educacionais
+# 🎮 IGRA 
 
 Projeto desenvolvido durante o programa Girl For IT (Junior Achievement MG), com foco no aprendizado de
 lógica de programação e desenvolvimento web, utilizando Scratch, HTML, CSS e JavaScript.
@@ -66,6 +66,4 @@ para continuar os estudos em programação.
 - Criar jogos próprios no Scratch  para adicionar a página
 - Usar o projeto como base para novos aprendizados  
 
----
 
-✨ Projeto desenvolvido para fins educacionais.
